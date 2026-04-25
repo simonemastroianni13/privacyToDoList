@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+@<!DOCTYPE html>
 <html lang="it">
 <head>
   <meta charset="UTF-8">
@@ -17,6 +17,6 @@
   <p>I dati servono esclusivamente per il funzionamento dell'app.</p>
 
   <h2>Contatti</h2>
-  <p>Email: tuaemail@email.com</p>
+  <p>Email: simone.mastroianni1997@gmail.com</p>
 </body>
 </html>
