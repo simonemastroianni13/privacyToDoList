@@ -1,22 +1,31 @@
-@<!DOCTYPE html>
-<html lang="it">
-<head>
-  <meta charset="UTF-8">
-  <title>Privacy Policy</title>
-</head>
-<body>
-  <h1>Privacy Policy</h1>
-  <p>Ultimo aggiornamento: 25/04/2026</p>
+<title>Privacy Policy</title>
 
-  <p>Questa applicazione è sviluppata da Simone Mastroianni.</p>
+# Privacy Policy
 
-  <h2>Dati raccolti</h2>
-  <p>L'app salva solo dati inseriti dall’utente (task, note) in locale.</p>
+Ultimo aggiornamento: 25/04/2026
 
-  <h2>Utilizzo dei dati</h2>
-  <p>I dati servono esclusivamente per il funzionamento dell'app.</p>
+Questa applicazione è sviluppata da Simone Mastroianni.
 
-  <h2>Contatti</h2>
-  <p>Email: simone.mastroianni1997@gmail.com</p>
-</body>
-</html>
+## Dati raccolti
+
+L'app salva esclusivamente i dati inseriti dall’utente (task, note) e li memorizza localmente sul dispositivo.
+
+## Utilizzo dei dati
+
+I dati vengono utilizzati esclusivamente per il funzionamento dell'app.
+
+## Archiviazione dei dati
+
+I dati non vengono trasmessi a server esterni e rimangono sul dispositivo dell’utente.
+
+## Servizi di terze parti
+
+L'app non utilizza servizi di terze parti che raccolgono dati personali.
+
+## Sicurezza
+
+Vengono adottate misure ragionevoli per proteggere i dati, ma nessun sistema è completamente sicuro.
+
+## Contatti
+
+Email: simone.mastroianni1997@gmail.com
